@@ -63,7 +63,7 @@ while True:
 
         sleep_time = random.randint(MINSLEEP, MAXSLEEP)
         print(f"Sleeping for {sleep_time} seconds...")
-        print()
+        print("--------------------")
 
         time.sleep(sleep_time)
     except Exception as e:
