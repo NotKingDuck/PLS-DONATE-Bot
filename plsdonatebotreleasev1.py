@@ -29,7 +29,7 @@ DELAYPERCHAR = 0.05 # NOT RECOMMENDED TO CHANGE, TIME BEFORE TYPING THE CHARACTE
 DELAYAFTEROPENINGCHAT = 0.5 # NOT RECOMMENDED TO CHANGE, TIME BEFORE TYPING THE MESSAGE
 # END OF SETTINGS
 
-print(colored('Made by KingDuck (@kingduck69 on discord)', 'white', 'on_orange', ['bold', 'underline']))
+print(colored('Made by KingDuck (@kingduck69 on discord)', 'white', 'on_orange', ['bold', 'underline'])) # where the error was found, there's no orange >:(
 print(colored('Script will start in 15 seconds!', 'white', 'on_yellow', ['bold', 'underline']))
 time.sleep(10)
 print(colored('5...', 'white', 'on_red', ['bold']))
